@@ -1,0 +1,11 @@
+.search-input {
+  width: 100%;
+  border: 1px solid #e6b31e;
+  color: transparent;
+  padding: 5px;
+  background-color: transparent;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  outline: none;
+}

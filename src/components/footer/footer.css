@@ -1,0 +1,35 @@
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #343434;
+  color: #fff;
+  font-size: 14px;
+}
+
+.footer-wrapper {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.footer-menu {
+  display: flex;
+  opacity: 0.6;
+}
+
+.footer-menu-list {
+  list-style: none;
+}
+
+.footer-menu-list li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.footer-copyright {
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.4;
+}

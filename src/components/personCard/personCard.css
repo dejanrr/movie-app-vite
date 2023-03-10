@@ -1,0 +1,26 @@
+.person-card-container {
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+}
+
+.person-card-image {
+  object-fit: contain;
+  max-width: 100%;
+}
+
+.person-card-info {
+  width: 100%;
+  height: 35px;
+  display: flex;
+  position: relative;
+  color: #fff;
+  background-color: #e6b31e;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.person-card-info span {
+  margin: 10px;
+}

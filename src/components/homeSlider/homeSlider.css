@@ -1,0 +1,13 @@
+.home-slider {
+  height: 60vh;
+  background-color: #fff;
+}
+
+.home-slider-item {
+  width: 100%;
+  height: 60vh;
+}
+
+.home-slider-image {
+  height: 120vh;
+}

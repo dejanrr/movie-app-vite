@@ -1,0 +1,31 @@
+.person-info-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #343434;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+
+.person-info-wrapper {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  border-spacing: 0px;
+  margin-top: 20px;
+  text-indent: initial;
+}
+
+tr {
+  display: table-row;
+}
+
+td {
+  display: table-cell;
+}

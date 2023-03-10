@@ -1,0 +1,60 @@
+.home-slider-item-info-card-container {
+  width: 100%;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0%;
+  color: #fff;
+}
+
+.home-slider-item-info-card {
+  width: 100%;
+  display: flex;
+  font-size: 14px;
+  color: #fff;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: inset 0 0 0 200px rgba(255, 255, 255, 0.09);
+}
+
+.home-slider-item-info-card-wrapper {
+  width: 50%;
+  display: flex;
+}
+
+.home-slider-item-info-card-left {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  align-content: center;
+}
+
+.home-slider-item-info-card-right {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.home-slider-item-info-card-title {
+  font-size: 4rem;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+.home-slider-item-info-card-date-and-runtime {
+  opacity: 0.4;
+}
+
+.home-slider-item-info-card-actors-array {
+  opacity: 0.6;
+}
+
+.slider-button-container {
+  width: 100px;
+  height: 35px;
+  position: absolute;
+  bottom: 23%;
+  right: 10%;
+}
